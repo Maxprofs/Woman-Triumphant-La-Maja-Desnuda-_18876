@@ -1,0 +1,40 @@
+_repo: Woman-Triumphant-La-Maja-Desnuda-_18876
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Keniston, Hayward
+    birthdate: 1883
+    gutenberg_agent_id: '8314'
+    url: http://www.gutenberg.org/2009/agents/8314
+covers:
+- cover_type: archival
+  image_path: 18876-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2006-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Widowers -- Fiction'
+- !lcsh 'Madrid (Spain) -- Fiction'
+title: Woman Triumphant (La Maja Desnuda)
+url: http://www.gutenberg.org/ebooks/18876

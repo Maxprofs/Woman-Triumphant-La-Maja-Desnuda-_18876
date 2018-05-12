@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18876#Woman-Triumphant-La-Maja-Desnuda-
 gutenberg_issued: '2006-07-19'
 gutenberg_type: Text
 identifiers:
